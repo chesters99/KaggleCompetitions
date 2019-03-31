@@ -1,2 +1,4 @@
 # KaggleCompetitions
-Jupyter notebooks using Pandas, Scikit-learn / XGBoost classifiers and regressors
+Common Repo for Kaggle competition tinkering. 
+
+Jupyter notebooks, Pandas, Scikit-learn / lightgbm/XGBoost
